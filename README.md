@@ -14,7 +14,6 @@ Her gentle smile reflects the emotional power of AI as a bridge between generati
 ✨ This is not just a portrait. It’s a tribute to every unseen dream that AI can help realize.
 
 ## Artwork
-*(Upload your image into an `artwork/` folder and link it here)*  
 ![AI Viksit Bharat](artwork/ai_viksit_bharat.jpeg)
 
 ## License
